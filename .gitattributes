@@ -1,0 +1,4 @@
+# .gitattributes
+
+# Use Git LFS for large files
+*.node filter=lfs diff=lfs merge=lfs -text
