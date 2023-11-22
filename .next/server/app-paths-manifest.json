@@ -1,1 +1,12 @@
-{}
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/activity/page": "app/(root)/activity/page.js",
+  "/(root)/create-thread/page": "app/(root)/create-thread/page.js",
+  "/(root)/search/page": "app/(root)/search/page.js",
+  "/(auth)/onboarding/page": "app/(auth)/onboarding/page.js",
+  "/(root)/communities/page": "app/(root)/communities/page.js",
+  "/(root)/profile/[id]/page": "app/(root)/profile/[id]/page.js",
+  "/(root)/thread/[id]/page": "app/(root)/thread/[id]/page.js",
+  "/(root)/communities/[id]/page": "app/(root)/communities/[id]/page.js"
+}

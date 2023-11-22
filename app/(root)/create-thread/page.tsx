@@ -1,6 +1,6 @@
 import { currentUser } from "@clerk/nextjs";
 import { redirect } from "next/navigation";
-
+// video 5.14
 import { PostThread } from "@/components/forms/PostThread";
 import { fetchUser } from "@/lib/actions/user.actions";
 
